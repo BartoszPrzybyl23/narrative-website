@@ -2478,6 +2478,35 @@ textarea.form-control-lg {
   margin-left: -1.5em;
 }
 
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+@media (min-width: 40em) {
+    .featurette-heading {
+    font-size: 40px;
+  }
+}
+
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 1rem;
+  }
+}
+
+/* Featurettes End
+------------------------- */
+
 .form-check-input {
   width: 1em;
   height: 1em;
@@ -11465,7 +11494,7 @@ html {
 }
 
 body {
-  letter-spacing: 0.0625em;
+  letter-spacing: 0.0500em;
 }
 
 #mainNav {
@@ -11683,7 +11712,7 @@ body {
 
 .signup-section {
   padding: 10rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/bg-signup.jpg");
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.1) 0%, rgba(0, 0, 0, 0.5) 75%, #000 100%), url("../assets/img/footer.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
