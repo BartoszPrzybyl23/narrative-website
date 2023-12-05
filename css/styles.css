@@ -239,11 +239,11 @@ sup {
 }
 
 a {
-  color: #64a19d;
+  color: #7caad3;
   text-decoration: underline;
 }
 a:hover {
-  color: #50817e;
+  color: #3f9ef0;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11734,7 +11734,7 @@ body {
 }
 .contact-section .card {
   border: 0;
-  border-bottom: 0.25rem solid #64a19d;
+  border-bottom: 0.25rem solid #98cdff;
 }
 .contact-section .card h4, .contact-section .card .h4 {
   font-size: 0.8rem;
