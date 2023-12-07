@@ -243,7 +243,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #3f9ef0;
+  color: #7caad3;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -493,7 +493,7 @@ progress {
 
 .lead {
   font-size: 1.25rem;
-  font-weight: 300;
+  
 }
 
 .display-1 {
@@ -2505,6 +2505,20 @@ textarea.form-control-lg {
 }
 
 /* Featurettes End
+------------------------- */
+
+/* Full Width Image
+------------------------- */
+
+.bg-image-full {
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+/* Full Width Image End
 ------------------------- */
 
 .form-check-input {
