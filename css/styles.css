@@ -3249,8 +3249,8 @@ textarea.form-control-lg {
 
 .btn-primary {
   color: #fff;
-  background-color: #97ceff;
-  border-color: #97ceff;
+  background-color: #145e85;
+  border-color: #145e85;
 }
 .btn-primary:hover {
   color: #fff;
@@ -4783,7 +4783,7 @@ textarea.form-control-lg {
 }
 .navbar-light .navbar-nav .show > .nav-link,
 .navbar-light .navbar-nav .nav-link.active {
-  border-bottom: 0.25rem solid #97ceff;
+  border-bottom: 0.25rem solid #145e85;
 }
 .navbar-light .navbar-toggler {
   color: rgba(0, 0, 0, 0.55);
@@ -11751,9 +11751,9 @@ body {
     color: #467370;
   }
   #mainNav.navbar-shrink .nav-link.active {
-    color: #7caad3;
+    color: #145e85;
     outline: none;
-    border-bottom: 0.25rem solid #97ceff;
+    border-bottom: 0.25rem solid #145e85;
   }
 }
 
